@@ -1,6 +1,12 @@
 # Brodie React Template
 This template can be used to quickly create a React SPA application.
 
+## Live Demo
+
+[Click here to see the template in action!](https://findrobbrodie/github.io/brodie-react-template)
+
+Click around, try dark mode and changing the language!
+
 ## Tech Stack
 
  * React 18
