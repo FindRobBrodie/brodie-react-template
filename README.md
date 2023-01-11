@@ -71,7 +71,12 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### publish
 
-The quickest way to publish this website with Visual Studio publish.
+You can publish this app exactly how you would any other .NET 6 solution.
+[Click here for more information.](https://learn.microsoft.com/en-us/dotnet/core/deploying/)
+
+If you are looking to publish manually to your host, the quickest way is with Visual Studio's build in publish option.
+
+Also note you can create a Docker image.
 
 ## Reporting Issues
 
