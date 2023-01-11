@@ -1,0 +1,10 @@
+query getMyClasses { 
+    classes {      
+      id
+      name
+      teacherId
+      startDate
+      endDate
+      credits
+    }
+  }
