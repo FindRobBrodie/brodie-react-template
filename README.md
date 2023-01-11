@@ -3,10 +3,11 @@ This template can be used to quickly create a React SPA application.
 
 ## Tech Stack
 
- * React
+ * React 18
  * Typescript
  * .NET 6
- * Material UI - a rich library of React components
+ * Material UI V5 - a rich library of React components
+ * React Router 6
  * GraphQL
  * graphql-codegen - to automatically generate Typescript from schema
  * Apollo Client 
