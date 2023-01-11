@@ -1,0 +1,6 @@
+query getMyTeachers { 
+    teachers {      
+      id
+      name      
+    }
+  }

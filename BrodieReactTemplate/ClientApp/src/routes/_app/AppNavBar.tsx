@@ -29,8 +29,8 @@ export const AppNavBar = () => {
    
   const pages = [
       {title: t('classes-menu-item','Classes'), slug: 'school/my-classes', appBarSx: {display: { xs: 'none', sm: 'block' }}}, 
-      {title: t('grades-menu-item','Grades'), slug: 'school/my-grades', appBarSx: {display: { xs: 'none', md: 'block' }}}, 
       {title: t('teachers-menu-item','Teachers'), slug: 'school/my-teachers', appBarSx: {display: { xs: 'none', md: 'block' }}},       
+      {title: t('schools-menu-item','Schools'), slug: 'school/my-schools', appBarSx: {display: { xs: 'none', md: 'block' }}}, 
     ]
       
   let activeTabIndex = pages.findIndex(page => '/' + page.slug === location.pathname)
