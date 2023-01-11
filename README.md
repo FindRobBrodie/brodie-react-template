@@ -1,5 +1,17 @@
 # Brodie React Template
+
 This template can be used to quickly create a React SPA application.
+
+The target audience is C# / .NET developers who would like a strongly-typed stack.
+
+React, Typescript, and GraphQL combined with MaterialUI make creating UI's a dream.
+
+Feel free to use this template and change any part of it.  It was made to be extendable. 
+Rip out any pieces you do not need and add what ever libraries you prefer to work with.
+
+If you found this repo useful, please give it a star to show your appreciation!
+
+Please note, I will soon add a GraphQL server template in Hot Chocolate.
 
 ## Tech Stack
 
