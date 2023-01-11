@@ -18,7 +18,7 @@ Please note, I will soon add a GraphQL server template in Hot Chocolate.
 
 ## Live Demo
 
-[Click here to see the template in action!](https://findrobbrodie/github.io/brodie-react-template)
+[Click here to see the template in action!](https://findrobbrodie.github.io/brodie-react-template/)
 
 Click around, try dark mode and changing the language!
 
