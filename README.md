@@ -6,7 +6,7 @@ The target audience is C# / .NET developers who would like a strongly-typed stac
 
 React, Typescript, and GraphQL combined with MaterialUI make creating UI's a dream.
 
-Feel free to use this template and change any part of it.  It was made to be extendable. 
+Feel free to use this template and change any part of it.  It was made to be extensible. 
 Rip out any pieces you do not need and add what ever libraries you prefer to work with.
 
 If you found this repo useful, please give it a star to show your appreciation!
@@ -25,6 +25,15 @@ Please note, I will soon add a GraphQL server template in Hot Chocolate.
  * Apollo Client 
  * i18next - for translation
  * oidc-client-ts - OAuth2.0 OpenIDConnect support of auth needs
+
+## Prereqs
+
+Please install the following before running this app:
+
+ * Visual Studio 2022
+ * vscode
+ * Node
+ * npm
 
 ## Getting Started with Brodie React Template
 
