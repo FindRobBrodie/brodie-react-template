@@ -1,8 +1,11 @@
 # Brodie React Template
 
-This template can be used to quickly create a React SPA application.
+This template can be used to quickly create a React SPA application with a modern stack.
 
-The target audience is C# / .NET developers who would like a strongly-typed stack.
+The target audience is C# / .NET developers who would like a strongly-typed stack,
+a rich component library, and an opinionated React setup. This repo will allow you to 
+hit the ground running.  You can focus on building your product and not worry about the 
+low-level details.
 
 React, Typescript, and GraphQL combined with MaterialUI make creating UI's a dream.
 
