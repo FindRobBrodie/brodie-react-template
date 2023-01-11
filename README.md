@@ -1,5 +1,20 @@
 # Brodie React Template
-This template can be used to quickly create a React SPA application.
+
+This template can be used to quickly create a React SPA application with a modern stack.
+
+The target audience is C# / .NET developers who would like a strongly-typed stack,
+a rich component library, and an opinionated React setup. This repo will allow you to 
+hit the ground running.  You can focus on building your product and not worry about the 
+low-level details.
+
+React, Typescript, and GraphQL combined with MaterialUI make creating UI's a dream.
+
+Feel free to use this template and change any part of it.  It was made to be extensible. 
+Rip out any pieces you do not need and add what ever libraries you prefer to work with.
+
+If you found this repo useful, please give it a star to show your appreciation!
+
+Please note, I will soon add a GraphQL server template in Hot Chocolate.
 
 ## Live Demo
 
@@ -19,6 +34,15 @@ Click around, try dark mode and changing the language!
  * Apollo Client 
  * i18next - for translation
  * oidc-client-ts - OAuth2.0 OpenIDConnect support of auth needs
+
+## Prereqs
+
+Please install the following before running this app:
+
+ * Visual Studio 2022
+ * vscode
+ * Node
+ * npm
 
 ## Getting Started with Brodie React Template
 
@@ -53,7 +77,12 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### publish
 
-The quickest way to publish this website with Visual Studio publish.
+You can publish this app exactly how you would any other .NET 6 solution.
+[Click here for more information.](https://learn.microsoft.com/en-us/dotnet/core/deploying/)
+
+If you are looking to publish manually to your host, the quickest way is with Visual Studio's build in publish option.
+
+Also note you can create a Docker image.
 
 ## Reporting Issues
 
