@@ -1,8 +1,19 @@
-# react-mui-apollo-react-router-template
+# Brodie React Template
 This template can be used to quickly create a React SPA application.
 
+## Tech Stack
 
-# Getting Started with Brodie React Template
+ * React
+ * Typescript
+ * .NET 6
+ * MUI
+ * GraphQL
+ * graphql-codegen - to automatically generate Typescript from schema
+ * Apollo Client 
+ * i18next - for translation
+ * oidc-client-ts - OAuth2.0 OpenIDConnect support of auth needs
+
+## Getting Started with Brodie React Template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
