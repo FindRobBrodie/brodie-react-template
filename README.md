@@ -6,7 +6,7 @@ This template can be used to quickly create a React SPA application.
  * React
  * Typescript
  * .NET 6
- * MUI
+ * Material UI - a rich library of React components
  * GraphQL
  * graphql-codegen - to automatically generate Typescript from schema
  * Apollo Client 
